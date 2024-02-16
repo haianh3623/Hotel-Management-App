@@ -1,0 +1,5 @@
+1. Sử dụng MySQL tạo Database đặt tên là hotel.
+2. Chạy file hotel.sql
+3. Chạy file Start.java để chạy ứng dụng.
+
+(Login không cần nhập username và password)
